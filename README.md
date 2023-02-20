@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-  <a href="https://www.instagram.com/_lyrical_ke/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/i_luvkittens/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:karanjacharles383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karanjacharles383@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
